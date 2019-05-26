@@ -1,2 +1,1 @@
-# Image-Pyramids
-This image processing exercise consists implementations of low pass and band pass filters and their application in image blending
+Exercise number 3 in the image processing course at the Hebrew University
